@@ -92,8 +92,8 @@
             {
                 "league": "Hot League",
                 "season": 0,
-                "team1Name": "Alewife Arsonists",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Pulaski Flying Fists",
+                "team2Name": "Soddy-Daisy Grammarians",
                 "team1Abbr": "AA",
                 "team2Abbr": "SGE",
                 "description": "Game 1, San Francisco Bay League Division Series 1",
@@ -270,8 +270,8 @@
             {
                 "league": "Hot League",
                 "season": 0,
-                "team1Name": "Alewife Arsonists",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Pulaski Flying Fists",
+                "team2Name": "Soddy-Daisy Grammarians",
                 "team1Abbr": "AA",
                 "team2Abbr": "SGE",
                 "description": "Game 2, San Francisco Bay League Division Series 1",
@@ -448,8 +448,8 @@
             {
                 "league": "Hot League",
                 "season": 0,
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Alewife Arsonists",
+                "team1Name": "Soddy-Daisy Grammarians",
+                "team2Name": "Pulaski Flying Fists",
                 "team1Abbr": "SGE",
                 "team2Abbr": "AA",
                 "description": "Game 3, San Francisco Bay League Division Series 1",
@@ -626,8 +626,8 @@
             {
                 "league": "Hot League",
                 "season": 0,
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Alewife Arsonists",
+                "team1Name": "Soddy-Daisy Grammarians",
+                "team2Name": "Pulaski Flying Fists",
                 "team1Abbr": "SGE",
                 "team2Abbr": "AA",
                 "description": "Game 4, San Francisco Bay League Division Series 1",
@@ -850,7 +850,7 @@
                 "team2SeriesTotalPoints": 0
             },
             {
-                "team1Name": "Alewife Arsonists",
+                "team1Name": "Pulaski Flying Fists",
                 "team2Name": "Bloomingdale Kvetchers",
                 "team1Abbr": "AA",
                 "team2Abbr": "MILF",
@@ -940,7 +940,7 @@
                 "team2SeriesTotalPoints": 241
             },
             {
-                "team1Name": "Alewife Arsonists",
+                "team1Name": "Pulaski Flying Fists",
                 "team2Name": "Bloomingdale Kvetchers",
                 "team1Abbr": "AA",
                 "team2Abbr": "MILF",
@@ -1031,7 +1031,7 @@
             },
             {
                 "team1Name": "Bloomingdale Kvetchers",
-                "team2Name": "Alewife Arsonists",
+                "team2Name": "Pulaski Flying Fists",
                 "team1Abbr": "MILF",
                 "team2Abbr": "AA",
                 "league": "Hot League",
@@ -1121,7 +1121,7 @@
             },
             {
                 "team1Name": "Bloomingdale Kvetchers",
-                "team2Name": "Alewife Arsonists",
+                "team2Name": "Pulaski Flying Fists",
                 "team1Abbr": "MILF",
                 "team2Abbr": "AA",
                 "league": "Hot League",
@@ -1211,7 +1211,7 @@
             },
             {
                 "team1Name": "Bloomingdale Kvetchers",
-                "team2Name": "Alewife Arsonists",
+                "team2Name": "Pulaski Flying Fists",
                 "team1Abbr": "MILF",
                 "team2Abbr": "AA",
                 "league": "Hot League",
@@ -1300,7 +1300,7 @@
                 "team2SeriesTotalPoints": 1177
             },
             {
-                "team1Name": "Alewife Arsonists",
+                "team1Name": "Pulaski Flying Fists",
                 "team2Name": "Bloomingdale Kvetchers",
                 "team1Abbr": "AA",
                 "team2Abbr": "MILF",
@@ -1346,7 +1346,7 @@
         ],
         [
             {
-                "team1Name": "Alewife Arsonists",
+                "team1Name": "Pulaski Flying Fists",
                 "team2Name": "Bloomingdale Kvetchers",
                 "team1Abbr": "AA",
                 "team2Abbr": "MILF",
@@ -1395,7 +1395,7 @@
         [
             {
                 "team1Name": "McKenzie Decay",
-                "team2Name": "Alewife Arsonists",
+                "team2Name": "Pulaski Flying Fists",
                 "team1Abbr": "SLC",
                 "team2Abbr": "AA",
                 "description": "Game 1, Klein Cup",
@@ -1440,7 +1440,7 @@
         [
             {
                 "team1Name": "McKenzie Decay",
-                "team2Name": "Alewife Arsonists",
+                "team2Name": "Pulaski Flying Fists",
                 "team1Abbr": "SLC",
                 "team2Abbr": "AA",
                 "description": "Game 2, Klein Cup",
@@ -1484,7 +1484,7 @@
         ],
         [
             {
-                "team1Name": "Alewife Arsonists",
+                "team1Name": "Pulaski Flying Fists",
                 "team2Name": "McKenzie Decay",
                 "team1Abbr": "AA",
                 "team2Abbr": "SLC",
@@ -1529,7 +1529,7 @@
         ],
         [
             {
-                "team1Name": "Alewife Arsonists",
+                "team1Name": "Pulaski Flying Fists",
                 "team2Name": "McKenzie Decay",
                 "team1Abbr": "AA",
                 "team2Abbr": "SLC",
@@ -1574,7 +1574,7 @@
         ],
         [
             {
-                "team1Name": "Alewife Arsonists",
+                "team1Name": "Pulaski Flying Fists",
                 "team2Name": "McKenzie Decay",
                 "team1Abbr": "AA",
                 "team2Abbr": "SLC",
@@ -1620,7 +1620,7 @@
         [
             {
                 "team1Name": "McKenzie Decay",
-                "team2Name": "Alewife Arsonists",
+                "team2Name": "Pulaski Flying Fists",
                 "team1Abbr": "SLC",
                 "team2Abbr": "AA",
                 "description": "Game 6, Klein Cup",
