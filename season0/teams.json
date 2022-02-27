@@ -1,105 +1,105 @@
 [
     {
         "teamAbbr": "SS",
-        "teamName": "Seattle Sneakers",
+        "teamName": "Dresden Burning Sand",
         "teamColor": "#e86215",
         "league": "Cold League",
         "division": "Fire Division"
     },
     {
         "teamAbbr": "LBFB",
-        "teamName": "Long Beach Flightless Birds",
+        "teamName": "Madisonville Brass Knuckles",
         "teamColor": "#f2c57c",
         "league": "Cold League",
         "division": "Fire Division"
     },
     {
         "teamAbbr": "EA",
-        "teamName": "Elko Astronauts",
+        "teamName": "Erin Evaders",
         "teamColor": "#a0e7e5",
         "league": "Cold League",
         "division": "Fire Division"
     },
     {
         "teamAbbr": "SLC",
-        "teamName": "Salt Lake Turbulence",
+        "teamName": "McKenzie Decay",
         "teamColor": "#00cc44",
         "league": "Cold League",
         "division": "Fire Division"
     },
     {
         "teamAbbr": "BPT",
-        "teamName": "Baltimore Piano Tuners",
+        "teamName": "White Pine Instrumentalists",
         "teamColor": "#3e92cc",
         "league": "Cold League",
         "division": "Fire Division"
     },
     {
         "teamAbbr": "SDBA",
-        "teamName": "San Diego Balloon Animals",
+        "teamName": "Gatlinburg Stocks",
         "teamColor": "#f08700",
         "league": "Cold League",
         "division": "Water Division"
     },
     {
         "teamAbbr": "FF",
-        "teamName": "Phoenix Freshrolls",
+        "teamName": "Athens Clamp Lamps",
         "teamColor": "#b0b0b0",
         "league": "Cold League",
         "division": "Water Division"
     },
     {
         "teamAbbr": "TB",
-        "teamName": "Tucson Butchers",
+        "teamName": "Decatur Ominous Hands",
         "teamColor": "#BB0000",
         "league": "Cold League",
         "division": "Water Division"
     },
     {
         "teamAbbr": "ABQ",
-        "teamName": "Albuquerque Solarpunks",
+        "teamName": "Winchester Spicy Nachos",
         "teamColor": "#d41199",
         "league": "Cold League",
         "division": "Water Division"
     },
     {
         "teamAbbr": "SAC",
-        "teamName": "Sacramento Boot Lickers",
+        "teamName": "Lewisburg Nosy Neighbors",
         "teamColor": "#ffb627",
         "league": "Cold League",
         "division": "Water Division"
     },
     {
         "teamAbbr": "SFBS",
-        "teamName": "San Francisco Boat Shoes",
+        "teamName": "Walterhill Mixing Bowls",
         "teamColor": "#e7d7c1",
         "league": "Hot League",
         "division": "Fire Division"
     },
     {
         "teamAbbr": "MILF",
-        "teamName": "Milwaukee Flamingos",
+        "teamName": "Bloomingdale Kvetchers",
         "teamColor": "#ff66cc",
         "league": "Hot League",
         "division": "Fire Division"
     },
     {
         "teamAbbr": "DET",
-        "teamName": "Detroit Grape Chews",
+        "teamName": "Spencer Curse Words",
         "teamColor": "#9963ab",
         "league": "Hot League",
         "division": "Fire Division"
     },
     {
         "teamAbbr": "FFF",
-        "teamName": "Fargo Flea Flickers",
+        "teamName": "Fairmount Floral Pirates",
         "teamColor": "#daed20",
         "league": "Hot League",
         "division": "Fire Division"
     },
     {
         "teamAbbr": "VV",
-        "teamName": "Vegas Vampires",
+        "teamName": "Somerville Fry Sauce",
         "teamColor": "#aa8040",
         "league": "Hot League",
         "division": "Fire Division"
