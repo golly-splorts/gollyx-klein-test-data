@@ -9,7 +9,7 @@
                 "team1Abbr": "FF",
                 "team2Abbr": "SAC",
                 "patternName": "fourrabbits",
-                "description": "Game 1, Monterey Bay League Division Series 1",
+                "description": "Game 1, Cold League Division Series 1",
                 "id": "88475d05-32d4-4331-9733-47855691d927",
                 "isPostseason": true
             },
@@ -21,7 +21,7 @@
                 "team1Abbr": "SLC",
                 "team2Abbr": "SS",
                 "patternName": "quadjustyna",
-                "description": "Game 1, Monterey Bay League Division Series 2",
+                "description": "Game 1, Cold League Division Series 2",
                 "id": "73df4bf4-81b3-41b7-a353-5401366e7314",
                 "isPostseason": true
             },
@@ -33,7 +33,7 @@
                 "team1Abbr": "AA",
                 "team2Abbr": "SGE",
                 "patternName": "classictimebomb",
-                "description": "Game 1, San Francisco Bay League Division Series 1",
+                "description": "Game 1, Hot League Division Series 1",
                 "id": "dedd5c6d-56e6-4620-bb84-eb954fa5e0e3",
                 "isPostseason": true
             },
@@ -45,7 +45,7 @@
                 "team1Abbr": "MILF",
                 "team2Abbr": "DET",
                 "patternName": "orchard",
-                "description": "Game 1, San Francisco Bay League Division Series 2",
+                "description": "Game 1, Hot League Division Series 2",
                 "id": "1ba43e8c-5c6e-43a5-9617-109995f093fb",
                 "isPostseason": true
             }
@@ -59,7 +59,7 @@
                 "team1Abbr": "FF",
                 "team2Abbr": "SAC",
                 "patternName": "eightpi",
-                "description": "Game 2, Monterey Bay League Division Series 1",
+                "description": "Game 2, Cold League Division Series 1",
                 "id": "75e44432-8e8a-4a62-a8ff-6909234b2883",
                 "isPostseason": true
             },
@@ -71,7 +71,7 @@
                 "team1Abbr": "SLC",
                 "team2Abbr": "SS",
                 "patternName": "random",
-                "description": "Game 2, Monterey Bay League Division Series 2",
+                "description": "Game 2, Cold League Division Series 2",
                 "id": "4f77dc01-a388-41c7-a4d2-50d6a58179a4",
                 "isPostseason": true
             },
@@ -83,7 +83,7 @@
                 "team1Abbr": "AA",
                 "team2Abbr": "SGE",
                 "patternName": "bigsegment",
-                "description": "Game 2, San Francisco Bay League Division Series 1",
+                "description": "Game 2, Hot League Division Series 1",
                 "id": "07520200-39d1-44d3-8ff7-b7eb00155b0c",
                 "isPostseason": true
             },
@@ -95,7 +95,7 @@
                 "team1Abbr": "MILF",
                 "team2Abbr": "DET",
                 "patternName": "randomsegment",
-                "description": "Game 2, San Francisco Bay League Division Series 2",
+                "description": "Game 2, Hot League Division Series 2",
                 "id": "e0d2d3b7-7bbf-4faa-838c-934296ca92c9",
                 "isPostseason": true
             }
@@ -109,7 +109,7 @@
                 "team1Abbr": "SAC",
                 "team2Abbr": "FF",
                 "patternName": "fourrabbits",
-                "description": "Game 3, Monterey Bay League Division Series 1",
+                "description": "Game 3, Cold League Division Series 1",
                 "id": "7a69f700-348a-483e-9e49-ca4952b0955e",
                 "isPostseason": true
             },
@@ -121,7 +121,7 @@
                 "team1Abbr": "SS",
                 "team2Abbr": "SLC",
                 "patternName": "switchengines",
-                "description": "Game 3, Monterey Bay League Division Series 2",
+                "description": "Game 3, Cold League Division Series 2",
                 "id": "3b5a3336-19fc-4e5e-a4cf-67cfb6b79ba2",
                 "isPostseason": true
             },
@@ -133,7 +133,7 @@
                 "team1Abbr": "SGE",
                 "team2Abbr": "AA",
                 "patternName": "randommethuselahs",
-                "description": "Game 3, San Francisco Bay League Division Series 1",
+                "description": "Game 3, Hot League Division Series 1",
                 "id": "286a9c77-5bce-4934-acda-c319b94337fc",
                 "isPostseason": true
             },
@@ -145,7 +145,7 @@
                 "team1Abbr": "DET",
                 "team2Abbr": "MILF",
                 "patternName": "randompartition",
-                "description": "Game 3, San Francisco Bay League Division Series 2",
+                "description": "Game 3, Hot League Division Series 2",
                 "id": "ed1bf025-c399-482b-8956-4037c44366f7",
                 "isPostseason": true
             }
@@ -159,7 +159,7 @@
                 "team1Abbr": "SAC",
                 "team2Abbr": "FF",
                 "patternName": "spaceshipcluster",
-                "description": "Game 4, Monterey Bay League Division Series 1",
+                "description": "Game 4, Cold League Division Series 1",
                 "id": "c4a59033-1998-4e0d-b14d-f5ee75397672",
                 "isPostseason": true
             },
@@ -171,7 +171,7 @@
                 "team1Abbr": "SS",
                 "team2Abbr": "SLC",
                 "patternName": "doublegaussian",
-                "description": "Game 4, Monterey Bay League Division Series 2",
+                "description": "Game 4, Cold League Division Series 2",
                 "id": "960811f2-e98a-49f9-baf6-5cc5c5d5ff29",
                 "isPostseason": true
             },
@@ -183,7 +183,7 @@
                 "team1Abbr": "SGE",
                 "team2Abbr": "AA",
                 "patternName": "eightpi",
-                "description": "Game 4, San Francisco Bay League Division Series 1",
+                "description": "Game 4, Hot League Division Series 1",
                 "id": "3384e7af-240d-406d-b193-009b6101c8a0",
                 "isPostseason": true
             },
@@ -195,7 +195,7 @@
                 "team1Abbr": "DET",
                 "team2Abbr": "MILF",
                 "patternName": "bigsegment",
-                "description": "Game 4, San Francisco Bay League Division Series 2",
+                "description": "Game 4, Hot League Division Series 2",
                 "id": "fed1c310-ba11-46c4-871e-e46bcdef4884",
                 "isPostseason": true
             }
@@ -209,7 +209,7 @@
                 "team1Abbr": "FF",
                 "team2Abbr": "SAC",
                 "patternName": "twoacorn",
-                "description": "Game 5, Monterey Bay League Division Series 1",
+                "description": "Game 5, Cold League Division Series 1",
                 "id": "3428d5a3-bcd0-449e-a631-c6d48c7f823e",
                 "isPostseason": true
             },
@@ -221,7 +221,7 @@
                 "team1Abbr": "SLC",
                 "team2Abbr": "SS",
                 "patternName": "rabbitfarm",
-                "description": "Game 5, Monterey Bay League Division Series 2",
+                "description": "Game 5, Cold League Division Series 2",
                 "id": "ed510298-4410-462c-938b-c08797eace20",
                 "isPostseason": true
             },
@@ -233,7 +233,7 @@
                 "team1Abbr": "AA",
                 "team2Abbr": "SGE",
                 "patternName": "randompartition",
-                "description": "Game 5, San Francisco Bay League Division Series 1",
+                "description": "Game 5, Hot League Division Series 1",
                 "id": "6e26bb90-762d-4971-9148-3a677b8d3968",
                 "isPostseason": true
             },
@@ -245,7 +245,7 @@
                 "team1Abbr": "MILF",
                 "team2Abbr": "DET",
                 "patternName": "spiders",
-                "description": "Game 5, San Francisco Bay League Division Series 2",
+                "description": "Game 5, Hot League Division Series 2",
                 "id": "1cb25744-ae18-4915-aaf8-c6210de1a798",
                 "isPostseason": true
             }
@@ -261,7 +261,7 @@
                 "patternName": "switchengines",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 1, Monterey Bay League Championship Series",
+                "description": "Game 1, Cold League Championship Series",
                 "id": "9fcaae96-7803-4fda-83b5-3a057cb43e74",
                 "isPostseason": true
             },
@@ -273,7 +273,7 @@
                 "patternName": "randommethuselahs",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 1, San Francisco Bay League Championship Series",
+                "description": "Game 1, Hot League Championship Series",
                 "id": "24d5b114-62b0-4c9d-b7fe-a3985f551b9e",
                 "isPostseason": true
             }
@@ -287,7 +287,7 @@
                 "patternName": "classictimebomb",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 2, Monterey Bay League Championship Series",
+                "description": "Game 2, Cold League Championship Series",
                 "id": "db881dbf-5ecf-49b2-a3ef-7f56118b7e0f",
                 "isPostseason": true
             },
@@ -299,7 +299,7 @@
                 "patternName": "doublegaussian",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 2, San Francisco Bay League Championship Series",
+                "description": "Game 2, Hot League Championship Series",
                 "id": "0ab099d7-9926-4ba5-9192-f4fbbfde9109",
                 "isPostseason": true
             }
@@ -313,7 +313,7 @@
                 "patternName": "kleintimebombredux",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 3, Monterey Bay League Championship Series",
+                "description": "Game 3, Cold League Championship Series",
                 "id": "6527752f-e744-4df1-a7a3-b77fa5863ae8",
                 "isPostseason": true
             },
@@ -325,7 +325,7 @@
                 "patternName": "porchlights",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 3, San Francisco Bay League Championship Series",
+                "description": "Game 3, Hot League Championship Series",
                 "id": "13c9ed0d-4e19-4bdf-9452-2bb52faaacf7",
                 "isPostseason": true
             }
@@ -339,7 +339,7 @@
                 "patternName": "classictimebomb",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 4, Monterey Bay League Championship Series",
+                "description": "Game 4, Cold League Championship Series",
                 "id": "a0ebc330-1194-46fc-b84b-ae3888688e80",
                 "isPostseason": true
             },
@@ -351,7 +351,7 @@
                 "patternName": "eightpi",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 4, San Francisco Bay League Championship Series",
+                "description": "Game 4, Hot League Championship Series",
                 "id": "ab114de6-ffe8-485b-9181-90145d6817f5",
                 "isPostseason": true
             }
@@ -365,7 +365,7 @@
                 "patternName": "kleinmath",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 5, Monterey Bay League Championship Series",
+                "description": "Game 5, Cold League Championship Series",
                 "id": "8397f532-3808-4158-961e-ebf00f9568dc",
                 "isPostseason": true
             },
@@ -377,7 +377,7 @@
                 "patternName": "spaceshipcrash",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 5, San Francisco Bay League Championship Series",
+                "description": "Game 5, Hot League Championship Series",
                 "id": "9d39ac18-2a5c-4c24-a980-a551ffa81636",
                 "isPostseason": true
             }
@@ -391,7 +391,7 @@
                 "patternName": "quadjustyna",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 6, Monterey Bay League Championship Series",
+                "description": "Game 6, Cold League Championship Series",
                 "id": "078ea3e5-b00a-41bb-8a46-eecf3d82f185",
                 "isPostseason": true
             },
@@ -403,7 +403,7 @@
                 "patternName": "eightpi",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 6, San Francisco Bay League Championship Series",
+                "description": "Game 6, Hot League Championship Series",
                 "id": "59e6861d-604b-4fb1-944f-e0fb023be223",
                 "isPostseason": true
             }
@@ -417,7 +417,7 @@
                 "patternName": "kleintimebombredux",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 7, Monterey Bay League Championship Series",
+                "description": "Game 7, Cold League Championship Series",
                 "id": "721be2e6-9817-451d-a6fc-5d0f83b407b3",
                 "isPostseason": true
             },
@@ -429,7 +429,7 @@
                 "patternName": "rabbitfarm",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 7, San Francisco Bay League Championship Series",
+                "description": "Game 7, Hot League Championship Series",
                 "id": "ff1c252d-2538-4177-ba7b-a7e466615068",
                 "isPostseason": true
             }
@@ -438,8 +438,8 @@
     "KCS": [
         [
             {
-                "team1Name": "Monterey Bay League",
-                "team2Name": "San Francisco Bay League",
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "randomsegment",
@@ -451,8 +451,8 @@
         ],
         [
             {
-                "team1Name": "Monterey Bay League",
-                "team2Name": "San Francisco Bay League",
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "spaceshipcluster",
@@ -464,8 +464,8 @@
         ],
         [
             {
-                "team1Name": "San Francisco Bay League",
-                "team2Name": "Monterey Bay League",
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "randompartition",
@@ -477,8 +477,8 @@
         ],
         [
             {
-                "team1Name": "San Francisco Bay League",
-                "team2Name": "Monterey Bay League",
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "doublegaussian",
@@ -490,8 +490,8 @@
         ],
         [
             {
-                "team1Name": "San Francisco Bay League",
-                "team2Name": "Monterey Bay League",
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "bigsegment",
@@ -503,8 +503,8 @@
         ],
         [
             {
-                "team1Name": "Monterey Bay League",
-                "team2Name": "San Francisco Bay League",
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "porchlights",
@@ -516,8 +516,8 @@
         ],
         [
             {
-                "team1Name": "Monterey Bay League",
-                "team2Name": "San Francisco Bay League",
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
                 "team1Abbr": "",
                 "team2Abbr": "",
                 "patternName": "kleintimebombredux",

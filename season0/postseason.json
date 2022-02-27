@@ -8,7 +8,7 @@
                 "team2Name": "Lewisburg Nosy Neighbors",
                 "team1Abbr": "FF",
                 "team2Abbr": "SAC",
-                "description": "Game 1, Monterey Bay League Division Series 1",
+                "description": "Game 1, Cold League Division Series 1",
                 "id": "88475d05-32d4-4331-9733-47855691d927",
                 "isPostseason": true,
                 "map": {
@@ -52,7 +52,7 @@
                 "team2Name": "Dresden Burning Sand",
                 "team1Abbr": "SLC",
                 "team2Abbr": "SS",
-                "description": "Game 1, Monterey Bay League Division Series 2",
+                "description": "Game 1, Cold League Division Series 2",
                 "id": "73df4bf4-81b3-41b7-a353-5401366e7314",
                 "isPostseason": true,
                 "map": {
@@ -96,7 +96,7 @@
                 "team2Name": "Soddy-Daisy Grammarians",
                 "team1Abbr": "AA",
                 "team2Abbr": "SGE",
-                "description": "Game 1, San Francisco Bay League Division Series 1",
+                "description": "Game 1, Hot League Division Series 1",
                 "id": "dedd5c6d-56e6-4620-bb84-eb954fa5e0e3",
                 "isPostseason": true,
                 "map": {
@@ -140,7 +140,7 @@
                 "team2Name": "Spencer Curse Words",
                 "team1Abbr": "MILF",
                 "team2Abbr": "DET",
-                "description": "Game 1, San Francisco Bay League Division Series 2",
+                "description": "Game 1, Hot League Division Series 2",
                 "id": "1ba43e8c-5c6e-43a5-9617-109995f093fb",
                 "isPostseason": true,
                 "map": {
@@ -186,7 +186,7 @@
                 "team2Name": "Lewisburg Nosy Neighbors",
                 "team1Abbr": "FF",
                 "team2Abbr": "SAC",
-                "description": "Game 2, Monterey Bay League Division Series 1",
+                "description": "Game 2, Cold League Division Series 1",
                 "id": "75e44432-8e8a-4a62-a8ff-6909234b2883",
                 "isPostseason": true,
                 "map": {
@@ -230,7 +230,7 @@
                 "team2Name": "Dresden Burning Sand",
                 "team1Abbr": "SLC",
                 "team2Abbr": "SS",
-                "description": "Game 2, Monterey Bay League Division Series 2",
+                "description": "Game 2, Cold League Division Series 2",
                 "id": "4f77dc01-a388-41c7-a4d2-50d6a58179a4",
                 "isPostseason": true,
                 "map": {
@@ -274,7 +274,7 @@
                 "team2Name": "Soddy-Daisy Grammarians",
                 "team1Abbr": "AA",
                 "team2Abbr": "SGE",
-                "description": "Game 2, San Francisco Bay League Division Series 1",
+                "description": "Game 2, Hot League Division Series 1",
                 "id": "07520200-39d1-44d3-8ff7-b7eb00155b0c",
                 "isPostseason": true,
                 "map": {
@@ -318,7 +318,7 @@
                 "team2Name": "Spencer Curse Words",
                 "team1Abbr": "MILF",
                 "team2Abbr": "DET",
-                "description": "Game 2, San Francisco Bay League Division Series 2",
+                "description": "Game 2, Hot League Division Series 2",
                 "id": "e0d2d3b7-7bbf-4faa-838c-934296ca92c9",
                 "isPostseason": true,
                 "map": {
@@ -364,7 +364,7 @@
                 "team2Name": "Athens Clamp Lamps",
                 "team1Abbr": "SAC",
                 "team2Abbr": "FF",
-                "description": "Game 3, Monterey Bay League Division Series 1",
+                "description": "Game 3, Cold League Division Series 1",
                 "id": "7a69f700-348a-483e-9e49-ca4952b0955e",
                 "isPostseason": true,
                 "map": {
@@ -408,7 +408,7 @@
                 "team2Name": "McKenzie Decay",
                 "team1Abbr": "SS",
                 "team2Abbr": "SLC",
-                "description": "Game 3, Monterey Bay League Division Series 2",
+                "description": "Game 3, Cold League Division Series 2",
                 "id": "3b5a3336-19fc-4e5e-a4cf-67cfb6b79ba2",
                 "isPostseason": true,
                 "map": {
@@ -452,7 +452,7 @@
                 "team2Name": "Pulaski Flying Fists",
                 "team1Abbr": "SGE",
                 "team2Abbr": "AA",
-                "description": "Game 3, San Francisco Bay League Division Series 1",
+                "description": "Game 3, Hot League Division Series 1",
                 "id": "286a9c77-5bce-4934-acda-c319b94337fc",
                 "isPostseason": true,
                 "map": {
@@ -496,7 +496,7 @@
                 "team2Name": "Bloomingdale Kvetchers",
                 "team1Abbr": "DET",
                 "team2Abbr": "MILF",
-                "description": "Game 3, San Francisco Bay League Division Series 2",
+                "description": "Game 3, Hot League Division Series 2",
                 "id": "ed1bf025-c399-482b-8956-4037c44366f7",
                 "isPostseason": true,
                 "map": {
@@ -542,7 +542,7 @@
                 "team2Name": "Athens Clamp Lamps",
                 "team1Abbr": "SAC",
                 "team2Abbr": "FF",
-                "description": "Game 4, Monterey Bay League Division Series 1",
+                "description": "Game 4, Cold League Division Series 1",
                 "id": "c4a59033-1998-4e0d-b14d-f5ee75397672",
                 "isPostseason": true,
                 "map": {
@@ -586,7 +586,7 @@
                 "team2Name": "McKenzie Decay",
                 "team1Abbr": "SS",
                 "team2Abbr": "SLC",
-                "description": "Game 4, Monterey Bay League Division Series 2",
+                "description": "Game 4, Cold League Division Series 2",
                 "id": "960811f2-e98a-49f9-baf6-5cc5c5d5ff29",
                 "isPostseason": true,
                 "map": {
@@ -630,7 +630,7 @@
                 "team2Name": "Pulaski Flying Fists",
                 "team1Abbr": "SGE",
                 "team2Abbr": "AA",
-                "description": "Game 4, San Francisco Bay League Division Series 1",
+                "description": "Game 4, Hot League Division Series 1",
                 "id": "3384e7af-240d-406d-b193-009b6101c8a0",
                 "isPostseason": true,
                 "map": {
@@ -674,7 +674,7 @@
                 "team2Name": "Bloomingdale Kvetchers",
                 "team1Abbr": "DET",
                 "team2Abbr": "MILF",
-                "description": "Game 4, San Francisco Bay League Division Series 2",
+                "description": "Game 4, Hot League Division Series 2",
                 "id": "fed1c310-ba11-46c4-871e-e46bcdef4884",
                 "isPostseason": true,
                 "map": {
@@ -720,7 +720,7 @@
                 "team2Name": "Dresden Burning Sand",
                 "team1Abbr": "SLC",
                 "team2Abbr": "SS",
-                "description": "Game 5, Monterey Bay League Division Series 2",
+                "description": "Game 5, Cold League Division Series 2",
                 "id": "ed510298-4410-462c-938b-c08797eace20",
                 "isPostseason": true,
                 "map": {
@@ -764,7 +764,7 @@
                 "team2Name": "Spencer Curse Words",
                 "team1Abbr": "MILF",
                 "team2Abbr": "DET",
-                "description": "Game 5, San Francisco Bay League Division Series 2",
+                "description": "Game 5, Hot League Division Series 2",
                 "id": "1cb25744-ae18-4915-aaf8-c6210de1a798",
                 "isPostseason": true,
                 "map": {
@@ -812,7 +812,7 @@
                 "team2Abbr": "SLC",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 1, Monterey Bay League Championship Series",
+                "description": "Game 1, Cold League Championship Series",
                 "id": "9fcaae96-7803-4fda-83b5-3a057cb43e74",
                 "isPostseason": true,
                 "map": {
@@ -856,7 +856,7 @@
                 "team2Abbr": "MILF",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 1, San Francisco Bay League Championship Series",
+                "description": "Game 1, Hot League Championship Series",
                 "id": "24d5b114-62b0-4c9d-b7fe-a3985f551b9e",
                 "isPostseason": true,
                 "map": {
@@ -902,7 +902,7 @@
                 "team2Abbr": "SLC",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 2, Monterey Bay League Championship Series",
+                "description": "Game 2, Cold League Championship Series",
                 "id": "db881dbf-5ecf-49b2-a3ef-7f56118b7e0f",
                 "isPostseason": true,
                 "map": {
@@ -946,7 +946,7 @@
                 "team2Abbr": "MILF",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 2, San Francisco Bay League Championship Series",
+                "description": "Game 2, Hot League Championship Series",
                 "id": "0ab099d7-9926-4ba5-9192-f4fbbfde9109",
                 "isPostseason": true,
                 "map": {
@@ -992,7 +992,7 @@
                 "team2Abbr": "SAC",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 3, Monterey Bay League Championship Series",
+                "description": "Game 3, Cold League Championship Series",
                 "id": "6527752f-e744-4df1-a7a3-b77fa5863ae8",
                 "isPostseason": true,
                 "map": {
@@ -1036,7 +1036,7 @@
                 "team2Abbr": "AA",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 3, San Francisco Bay League Championship Series",
+                "description": "Game 3, Hot League Championship Series",
                 "id": "13c9ed0d-4e19-4bdf-9452-2bb52faaacf7",
                 "isPostseason": true,
                 "map": {
@@ -1082,7 +1082,7 @@
                 "team2Abbr": "SAC",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 4, Monterey Bay League Championship Series",
+                "description": "Game 4, Cold League Championship Series",
                 "id": "a0ebc330-1194-46fc-b84b-ae3888688e80",
                 "isPostseason": true,
                 "map": {
@@ -1126,7 +1126,7 @@
                 "team2Abbr": "AA",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 4, San Francisco Bay League Championship Series",
+                "description": "Game 4, Hot League Championship Series",
                 "id": "ab114de6-ffe8-485b-9181-90145d6817f5",
                 "isPostseason": true,
                 "map": {
@@ -1172,7 +1172,7 @@
                 "team2Abbr": "SAC",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 5, Monterey Bay League Championship Series",
+                "description": "Game 5, Cold League Championship Series",
                 "id": "8397f532-3808-4158-961e-ebf00f9568dc",
                 "isPostseason": true,
                 "map": {
@@ -1216,7 +1216,7 @@
                 "team2Abbr": "AA",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 5, San Francisco Bay League Championship Series",
+                "description": "Game 5, Hot League Championship Series",
                 "id": "9d39ac18-2a5c-4c24-a980-a551ffa81636",
                 "isPostseason": true,
                 "map": {
@@ -1262,7 +1262,7 @@
                 "team2Abbr": "SLC",
                 "league": "Cold League",
                 "season": 0,
-                "description": "Game 6, Monterey Bay League Championship Series",
+                "description": "Game 6, Cold League Championship Series",
                 "id": "078ea3e5-b00a-41bb-8a46-eecf3d82f185",
                 "isPostseason": true,
                 "map": {
@@ -1306,7 +1306,7 @@
                 "team2Abbr": "MILF",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 6, San Francisco Bay League Championship Series",
+                "description": "Game 6, Hot League Championship Series",
                 "id": "59e6861d-604b-4fb1-944f-e0fb023be223",
                 "isPostseason": true,
                 "map": {
@@ -1352,7 +1352,7 @@
                 "team2Abbr": "MILF",
                 "league": "Hot League",
                 "season": 0,
-                "description": "Game 7, San Francisco Bay League Championship Series",
+                "description": "Game 7, Hot League Championship Series",
                 "id": "ff1c252d-2538-4177-ba7b-a7e466615068",
                 "isPostseason": true,
                 "map": {
