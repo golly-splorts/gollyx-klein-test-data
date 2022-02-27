@@ -1,0 +1,142 @@
+[
+    {
+        "teamAbbr": "ST",
+        "teamName": "Salcha Salsa",
+        "teamColor": "#ff1717",
+        "league": "San Francisco Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "SGSC",
+        "teamName": "Sitka Thirteens",
+        "teamColor": "#ef6f6c",
+        "league": "San Francisco Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "SJA",
+        "teamName": "Juneau Nucleophiles",
+        "teamColor": "#53917e",
+        "league": "San Francisco Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "MVM",
+        "teamName": "Barrow Exchequers",
+        "teamColor": "#f08700",
+        "league": "San Francisco Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "HP",
+        "teamName": "Cohoe Sawhands",
+        "teamColor": "#b0b0b0",
+        "league": "San Francisco Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "BBR",
+        "teamName": "Fishhook Toxic Mold",
+        "teamColor": "#d41199",
+        "league": "San Francisco Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "OB",
+        "teamName": "Fairview Unicorns",
+        "teamColor": "#ffb627",
+        "league": "San Francisco Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "RS",
+        "teamName": "North Pole Starlight",
+        "teamColor": "#e7a0e8",
+        "league": "San Francisco Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "SBC",
+        "teamName": "Sterling Octagons",
+        "teamColor": "#0dab76",
+        "league": "San Francisco Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "VB",
+        "teamName": "Seward Salmon",
+        "teamColor": "#697a21",
+        "league": "San Francisco Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "DCD",
+        "teamName": "Kodiak Skullcrushers",
+        "teamColor": "#f2c57c",
+        "league": "Monterey Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "BCC",
+        "teamName": "Farm Loop Frost",
+        "teamColor": "#00cc44",
+        "league": "Monterey Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "FFR",
+        "teamName": "Craig Manifolds",
+        "teamColor": "#a0e7e5",
+        "league": "Monterey Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "SCB",
+        "teamName": "Palmer Strawberry Chews",
+        "teamColor": "#fefe67",
+        "league": "Monterey Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "AI",
+        "teamName": "Meadow Lakes Foreshadowers",
+        "teamColor": "#3e92cc",
+        "league": "Monterey Bay League",
+        "division": "High Division"
+    },
+    {
+        "teamAbbr": "PGM",
+        "teamName": "Hooper Bay Handwarmers",
+        "teamColor": "#e86215",
+        "league": "Monterey Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "DD",
+        "teamName": "Petersburg Quitters",
+        "teamColor": "#9963ab",
+        "league": "Monterey Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "CYC",
+        "teamName": "Deltana Cheaters",
+        "teamColor": "#e7d7c1",
+        "league": "Monterey Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "MM",
+        "teamName": "Wrangell Short Stacks",
+        "teamColor": "#ff66cc",
+        "league": "Monterey Bay League",
+        "division": "Low Division"
+    },
+    {
+        "teamAbbr": "SCS",
+        "teamName": "Ketchikan Gin Queens",
+        "teamColor": "#bb0000",
+        "league": "Monterey Bay League",
+        "division": "Low Division"
+    }
+]
