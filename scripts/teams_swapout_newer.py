@@ -5,7 +5,7 @@ import json
 
 
 season = 0
-write = False
+write = True
 
 
 seasondir = f'season{season}'
@@ -111,8 +111,11 @@ for day in schedule:
             game[abbr_key] = abbr_map[abbr_val]
 
             color_key = f"team{i+1}Color"
-            color_val = game[color_key]
-            game[color_key] = color_map[color_val]
+            try:
+                color_val = game[color_key]
+                game[color_key] = color_map[color_val]
+            except KeyError:
+                pass
 
             lea_key = "league"
             try:
@@ -169,15 +172,20 @@ for series in bracket:
             for i in range(2):
                 name_key = f"team{i+1}Name"
                 name_val = game[name_key]
-                game[name_key] = name_map[name_val]
+                if name_val in name_map:
+                    game[name_key] = name_map[name_val]
 
                 abbr_key = f"team{i+1}Abbr"
                 abbr_val = game[abbr_key]
-                game[abbr_key] = abbr_map[abbr_val]
+                if abbr_val in abbr_map:
+                    game[abbr_key] = abbr_map[abbr_val]
 
                 color_key = f"team{i+1}Color"
-                color_val = game[color_key]
-                game[color_key] = color_map[color_val]
+                try:
+                    color_val = game[color_key]
+                    game[color_key] = color_map[color_val]
+                except KeyError:
+                    pass
 
                 lea_key = "league"
                 try:
