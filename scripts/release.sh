@@ -5,8 +5,8 @@ set -x
 
 REMOTE="ghx"
 
-if [ -z "${GOLLYX_STAR_DATA_HOME}" ]; then
-	echo 'You must set the $GOLLYX_STAR_DATA_HOME environment variable to proceed.'
+if [ -z "${GOLLYX_KLEIN_DATA_HOME}" ]; then
+	echo 'You must set the $GOLLYX_KLEIN_DATA_HOME environment variable to proceed.'
 	exit 1
 fi
 
