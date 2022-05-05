@@ -1,0 +1,531 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 9,
+                "team1Name": "Athens Clamp Lamps",
+                "team2Name": "Erin Evaders",
+                "team1Abbr": "FF",
+                "team2Abbr": "EA",
+                "patternName": "crabs",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "8e02898f-b933-4e8f-ba1d-8502f2976711",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 9,
+                "team1Name": "McKenzie Decay",
+                "team2Name": "Decatur Ominous Hands",
+                "team1Abbr": "SLC",
+                "team2Abbr": "TB",
+                "patternName": "spiders",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "ef467e6d-6910-4f11-97e8-8c8bd8df7257",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 9,
+                "team1Name": "Bloomingdale Kvetchers",
+                "team2Name": "Somerville Fry Sauce",
+                "team1Abbr": "MILF",
+                "team2Abbr": "VV",
+                "patternName": "classictimebomb",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "3a88bb51-b1cc-4fe3-8843-ec75aef165a0",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 9,
+                "team1Name": "Clarksville Keyclackers",
+                "team2Name": "Vonore Waffle Irons",
+                "team1Abbr": "OSHA",
+                "team2Abbr": "DECO",
+                "patternName": "doublegaussian",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "530e7fda-67dc-4eb3-8d26-3bfe1b4ac273",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 9,
+                "team1Name": "Athens Clamp Lamps",
+                "team2Name": "Erin Evaders",
+                "team1Abbr": "FF",
+                "team2Abbr": "EA",
+                "patternName": "twomultum",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "97e5669d-eff1-448b-8b38-0ac5ed526b70",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 9,
+                "team1Name": "McKenzie Decay",
+                "team2Name": "Decatur Ominous Hands",
+                "team1Abbr": "SLC",
+                "team2Abbr": "TB",
+                "patternName": "randommethuselahs",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "6f4df7ef-a47b-41ff-aa3e-0f21381e22ea",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 9,
+                "team1Name": "Bloomingdale Kvetchers",
+                "team2Name": "Somerville Fry Sauce",
+                "team1Abbr": "MILF",
+                "team2Abbr": "VV",
+                "patternName": "switchengines",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "0a1aae5e-3602-44db-874e-18bc7a5d56a1",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 9,
+                "team1Name": "Clarksville Keyclackers",
+                "team2Name": "Vonore Waffle Irons",
+                "team1Abbr": "OSHA",
+                "team2Abbr": "DECO",
+                "patternName": "rabbitfarm",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "fcdee8a3-9501-4e98-87c6-be216d6989ab",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 9,
+                "team1Name": "Erin Evaders",
+                "team2Name": "Athens Clamp Lamps",
+                "team1Abbr": "EA",
+                "team2Abbr": "FF",
+                "patternName": "spaceshipsegment",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "892e52e4-9608-4104-9df1-279b12ffd6e2",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 9,
+                "team1Name": "Decatur Ominous Hands",
+                "team2Name": "McKenzie Decay",
+                "team1Abbr": "TB",
+                "team2Abbr": "SLC",
+                "patternName": "rabbitfarm",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "229ca46f-25b7-4682-9b1c-977b0fed77d4",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 9,
+                "team1Name": "Somerville Fry Sauce",
+                "team2Name": "Bloomingdale Kvetchers",
+                "team1Abbr": "VV",
+                "team2Abbr": "MILF",
+                "patternName": "spaceshipcrash",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "eeed285a-c067-4064-89f4-971e1a38350a",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 9,
+                "team1Name": "Vonore Waffle Irons",
+                "team2Name": "Clarksville Keyclackers",
+                "team1Abbr": "DECO",
+                "team2Abbr": "OSHA",
+                "patternName": "eightpi",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "0f778998-4bbb-4676-8e6b-17f35d31acef",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 9,
+                "team1Name": "Erin Evaders",
+                "team2Name": "Athens Clamp Lamps",
+                "team1Abbr": "EA",
+                "team2Abbr": "FF",
+                "patternName": "orchard",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "8c5d403f-c902-440d-947f-6e5e96a65724",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 9,
+                "team1Name": "Decatur Ominous Hands",
+                "team2Name": "McKenzie Decay",
+                "team1Abbr": "TB",
+                "team2Abbr": "SLC",
+                "patternName": "spaceshipcrash",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "3abbd6b0-ba88-4d38-9560-f0ad6e5afda2",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 9,
+                "team1Name": "Somerville Fry Sauce",
+                "team2Name": "Bloomingdale Kvetchers",
+                "team1Abbr": "VV",
+                "team2Abbr": "MILF",
+                "patternName": "eightpi",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "34220d93-8b0e-44fa-9b93-c11909cdc958",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 9,
+                "team1Name": "Vonore Waffle Irons",
+                "team2Name": "Clarksville Keyclackers",
+                "team1Abbr": "DECO",
+                "team2Abbr": "OSHA",
+                "patternName": "randommethuselahs",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "e069c55c-3455-4a90-9e14-85196f28de4c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 9,
+                "team1Name": "Athens Clamp Lamps",
+                "team2Name": "Erin Evaders",
+                "team1Abbr": "FF",
+                "team2Abbr": "EA",
+                "patternName": "random",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "8cb87a7e-4126-417f-afe1-d00f9bfb5edb",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 9,
+                "team1Name": "McKenzie Decay",
+                "team2Name": "Decatur Ominous Hands",
+                "team1Abbr": "SLC",
+                "team2Abbr": "TB",
+                "patternName": "kleinmath",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "7448ad22-290c-4d2d-86ab-5d90a44b335e",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 9,
+                "team1Name": "Bloomingdale Kvetchers",
+                "team2Name": "Somerville Fry Sauce",
+                "team1Abbr": "MILF",
+                "team2Abbr": "VV",
+                "patternName": "spiders",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "3187d9e0-c048-45f0-855b-2f08a9bee075",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 9,
+                "team1Name": "Clarksville Keyclackers",
+                "team2Name": "Vonore Waffle Irons",
+                "team1Abbr": "OSHA",
+                "team2Abbr": "DECO",
+                "patternName": "rabbitfarm",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "91c098fd-0a9e-4e4a-aa31-58a249989016",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "league": "Cold League",
+                "season": 9,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "67a4015d-61d4-4442-803b-56f30d7fb653",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "kleintimebombredux",
+                "league": "Hot League",
+                "season": 9,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "6062a912-0fa4-4889-898b-2db5d929f095",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "rabbitfarm",
+                "league": "Cold League",
+                "season": 9,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "1cbf20e0-1db9-480e-807c-f2c8632e2888",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randommethuselahs",
+                "league": "Hot League",
+                "season": 9,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "3397c37c-0e3e-4520-8751-8d4e13839175",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "porchlights",
+                "league": "Cold League",
+                "season": 9,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "c54f4c37-e9c7-4c2b-8745-2a79093f0cec",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "twoacorn",
+                "league": "Hot League",
+                "season": 9,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "a67fc71f-5c49-4a44-a011-d9c8d612cdcf",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randommethuselahs",
+                "league": "Cold League",
+                "season": 9,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "91cce9a1-f876-494c-806c-2ed3186284fd",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "doublegaussian",
+                "league": "Hot League",
+                "season": 9,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "67805ac1-c099-4798-9b8e-d6bad59d94cb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightr",
+                "league": "Cold League",
+                "season": 9,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "04bc9d79-a9b5-4cb6-bdfd-ba9c8f8464bc",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "league": "Hot League",
+                "season": 9,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "6e2f1c72-3eb9-43e5-9262-a0e8a2c0fe11",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "league": "Cold League",
+                "season": 9,
+                "description": "Game 6, Cold League Championship Series",
+                "id": "d167fe67-45d0-4037-9db7-5f768bebc420",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randommethuselahs",
+                "league": "Hot League",
+                "season": 9,
+                "description": "Game 6, Hot League Championship Series",
+                "id": "23943711-b3ed-4de3-b053-52f1fec4aef9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "league": "Cold League",
+                "season": 9,
+                "description": "Game 7, Cold League Championship Series",
+                "id": "c9b64764-856f-4f1d-8073-317459872aed",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "rabbitfarm",
+                "league": "Hot League",
+                "season": 9,
+                "description": "Game 7, Hot League Championship Series",
+                "id": "7b74b22c-64f0-47e3-b0a3-b0ac633f3703",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "KCS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "switchengines",
+                "description": "Game 1, Klein Cup",
+                "season": 9,
+                "id": "ae2bf100-7ce2-491b-8438-73b4dd297026",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "description": "Game 2, Klein Cup",
+                "season": 9,
+                "id": "d450c69b-c247-429c-bd25-17077955101c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "description": "Game 3, Klein Cup",
+                "season": 9,
+                "id": "273b709f-5a5a-48ea-af0e-622036c83699",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 4, Klein Cup",
+                "season": 9,
+                "id": "372159c3-d467-4648-b637-53f11bfb30a6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "twomultum",
+                "description": "Game 5, Klein Cup",
+                "season": 9,
+                "id": "4d0d93e8-7001-4e46-907e-45002845d90e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightr",
+                "description": "Game 6, Klein Cup",
+                "season": 9,
+                "id": "384032c5-ffc4-4ffa-b14c-809370a6b74a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spaceshipcrash",
+                "description": "Game 7, Klein Cup",
+                "season": 9,
+                "id": "f9481439-82f0-44f3-827e-ab0feb513765",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
